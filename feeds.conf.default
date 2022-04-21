@@ -7,6 +7,6 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
 #src-git helloworld https://github.com/fw876/helloworld
-#src-git kenzo https://github.com/jtzx082/openwrt-packages
+#src-git jtzx082 https://github.com/jtzx082/openwrt-packages
 #src-git small https://github.com/jtzx082/small
 src-git small8 https://github.com/jtzx082/small-package
